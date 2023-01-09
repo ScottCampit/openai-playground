@@ -8,6 +8,7 @@ To use the toy chatbot, you first need to create a virtual environment using the
 ```
 python3 -m venv chatbot_env
 source chatbot_env/bin/activate
+pip install -r requirements.txt
 ```
 
 Then run the following command to run the Streamlit application:
@@ -22,6 +23,7 @@ To use the toy translator, you first need to create a virtual environment using 
 ```
 python3 -m venv chatbot_env
 source chatbot_env/bin/activate
+pip install -r requirements.txt
 ```
 
 Then run the following command to run the Streamlit application:
